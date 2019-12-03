@@ -1,0 +1,24 @@
+body {
+	
+}
+div, p, ul, li, button, span, a {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+.talk-branch__body {
+	margin-left: 20px;
+	margin-bottom: 8px;
+}
+.sub-comments {
+	margin-left: 40px;
+}
